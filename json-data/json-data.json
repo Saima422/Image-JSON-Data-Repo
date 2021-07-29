@@ -1,0 +1,81 @@
+{
+    "BannerData": {
+        "companyName": "Render Webpage using JavaScript Object",
+        "tagline": "using modular code for page rendering",
+        "cta": "Contact Us",
+        "href": "#",
+        "bannerImage": "https://niravkpatel28.github.io/github-image-repository/webpage/banner2.png"
+    },
+
+    "NavData": {
+        "logo": {
+          "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
+          "alt": "Surfboard India Company Logo"
+        },
+        "navLinks": [
+          {
+            "linkId": "li1", 
+            "title": "Home",
+            "href": "#"
+          },
+          {
+            "linkId": "li2", 
+            "title": "Our Work",
+            "href": "#"
+          },
+          {
+            "linkId": "li3", 
+            "title": "About Us",
+            "href": "#"
+          },
+          {
+            "linkId": "li4", 
+            "title": "Register",
+            "href": "#",
+            "isCta": "true"
+          }
+        ]
+    },
+
+    "FooterData": {
+        "logo":{
+            "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
+            "alt": "Surfboard India Company Logo"
+        },
+        "links":[
+            {
+                "href":"#",
+                "title": "link1",
+                "classList": ["fab", "fa-twitter-square", "fa-2x"]
+            },
+            {
+                "href":"#",
+                "title": "link2",
+                "classList": ["fab", "fa-github-square", "fa-2x"]
+            },
+            {
+                "href":"#",
+                "title": "link3",
+                "classList": ["fab", "fa-linkedin", "fa-2x"]
+            }
+        ]
+    },
+
+    "ProjectData": [
+        {
+            "name": "SIH-SIKKIM",
+            "author": "Pawan Sharma",
+            "desc": "It is a desktop based application that records a variety of data like attendance or students as well as teachers, marks of students, and other statutory data as required by education department. One can entry data offline and later it will automatically put into the web whenever network is available.",
+            "progImg": "https://saima422.github.io/SPARK_LandingPage/images/School-Dashboard.png",   
+            "href": "https://github.com/Nitu22499/SG434_Radical"
+        },
+        {
+            "name": "Spam Detection on Twitter",
+            "author": "Saima Sayed",
+            "desc": "To distinguish the user as spam or not we access the tweets from twitter. After extracting the tweets we process them. Once the tweets are processed we are perform feature extraction followed by feature matching. Once these steps are done we use different classifier to give us accurate results of spam accounts. The results are evaluated and compared which will let us know which classifier yields the       best result.students, and other statutory data as required by education department. One can entry data offline and later it will automatically put into the web whenever network is available.",
+            "progImg": "https://saima422.github.io/SPARK_LandingPage/images/saima_project.png",   
+            "href": "https://github.com/Nitu22499/SG434_Radical"
+        }
+    ]
+
+}
