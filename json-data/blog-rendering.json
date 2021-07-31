@@ -38,22 +38,22 @@
             {
                 "href":"#",
                 "title": "link1",
-                "classList": ["fab", "fa-facebook-f", "fa-2x"]
+                "classList": ["fab", "fa-facebook-f", "fa-lg"]
             },
             {
                 "href":"#",
                 "title": "link1",
-                "classList": ["fab", "fa-instagram", "fa-2x"]
+                "classList": ["fab", "fa-instagram", "fa-lg"]
             },
             {
                 "href":"#",
                 "title": "link1",
-                "classList": ["fab", "fa-twitter", "fa-2x"]
+                "classList": ["fab", "fa-twitter", "fa-lg"]
             },
             {
                 "href":"#",
                 "title": "link2",
-                "classList": ["fab", "fa-github", "fa-2x"]
+                "classList": ["fab", "fa-github", "fa-lg"]
             },
             {
                 "href":"#",
