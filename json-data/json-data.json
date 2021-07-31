@@ -4,12 +4,12 @@
         "tagline": "using modular code for page rendering",
         "cta": "Contact Us",
         "href": "#",
-        "bannerImage": "https://niravkpatel28.github.io/github-image-repository/webpage/banner2.png"
+        "bannerImage": "https://saima422.github.io/Image-JSON-Data-Repo/images/banner2.png"
     },
 
     "NavData": {
         "logo": {
-          "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
+          "imgSrc": "https://saima422.github.io/Image-JSON-Data-Repo/images/Surfboard%20India.png",
           "alt": "Surfboard India Company Logo"
         },
         "navLinks": [
@@ -39,7 +39,7 @@
 
     "FooterData": {
         "logo":{
-            "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
+            "imgSrc": "https://saima422.github.io/Image-JSON-Data-Repo/images/Surfboard%20India.png",
             "alt": "Surfboard India Company Logo"
         },
         "links":[
