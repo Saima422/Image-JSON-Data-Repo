@@ -58,7 +58,7 @@
             {
                 "href":"#",
                 "title": "link3",
-                "classList": ["fab", "fa-linkedin-in", "fa-2x"]
+                "classList": ["fab", "fa-linkedin-in", "fa-lg"]
             }
         ]
     }
