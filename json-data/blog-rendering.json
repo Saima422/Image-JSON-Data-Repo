@@ -1,0 +1,65 @@
+{
+    "NavData": {
+        "logo": {
+          "imgSrc": "https://saima422.github.io/Image-JSON-Data-Repo/images/logo.png",
+          "alt": "Company Logo"
+        },
+        "navLinks": [
+          {
+            "linkId": "li1", 
+            "title": "Home",
+            "href": "#"
+          },
+          {
+            "linkId": "li2", 
+            "title": "Travel",
+            "href": "#"
+          },
+          {
+            "linkId": "li3", 
+            "title": "About Us",
+            "href": "#"
+          },
+          {
+            "linkId": "li4", 
+            "title": "Join Us",
+            "href": "#",
+            "isCta": "true"
+          }
+        ]
+    },
+
+    "FooterData": {
+        "logo":{
+            "imgSrc": "https://saima422.github.io/Image-JSON-Data-Repo/images/logo.png",
+            "alt": "Company Logo"
+        },
+        "links":[
+            {
+                "href":"#",
+                "title": "link1",
+                "classList": ["fab", "fa-facebook-f", "fa-2x"]
+            },
+            {
+                "href":"#",
+                "title": "link1",
+                "classList": ["fab", "fa-instagram", "fa-2x"]
+            },
+            {
+                "href":"#",
+                "title": "link1",
+                "classList": ["fab", "fa-twitter", "fa-2x"]
+            },
+            {
+                "href":"#",
+                "title": "link2",
+                "classList": ["fab", "fa-github", "fa-2x"]
+            },
+            {
+                "href":"#",
+                "title": "link3",
+                "classList": ["fab", "fa-linkedin-in", "fa-2x"]
+            }
+        ]
+    }
+}
