@@ -6,24 +6,9 @@
         },
         "navLinks": [
           {
-            "linkId": "li1", 
-            "title": "Home",
-            "href": "#"
-          },
-          {
-            "linkId": "li2", 
-            "title": "Travel",
-            "href": "#"
-          },
-          {
-            "linkId": "li3", 
-            "title": "About Us",
-            "href": "#"
-          },
-          {
             "linkId": "li4", 
             "title": "Join Us",
-            "href": "#",
+            "href": "#contact",
             "isCta": "true"
           }
         ]
