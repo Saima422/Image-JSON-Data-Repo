@@ -5,7 +5,7 @@
     },
 
     "RE":{
-        "navLinks":["Home","Contentstack","Surfboard Ventures"],
+        "navLinks":["Home","Contentstack","Surfboard"],
         "mainContent":{
             "mainHeading":"",
             "mainImage":"",
@@ -14,7 +14,7 @@
     },
 
     "CS":{
-        "navLinks":["Home","Raw Engineering","Surfboard Ventures"],
+        "navLinks":["Home","Raw Eng","Surfboard"],
         "mainContent":{
             "mainHeading":"",
             "mainImage":"",
@@ -23,7 +23,7 @@
     },
 
     "SB":{
-        "navLinks":["Home","Raw Engineering","Contentstack"],
+        "navLinks":["Home","Raw Eng","Contentstack"],
         "mainContent":{
             "mainHeading":"",
             "mainImage":"",
@@ -32,7 +32,7 @@
     },
 
     "Home":{
-        "navLinks":["Raw Engineering","Contentstack","Surfboard Ventures"],
+        "navLinks":["Raw Eng","Contentstack","Surfboard"],
         "mainContent":{
             "mainHeading":"",
             "mainImage":"",
