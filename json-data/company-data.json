@@ -3,7 +3,6 @@
         "logoUrl":"",
         "navHeading":""
     },
-
     "RE":{
         "logo": "https://saima422.github.io/Image-JSON-Data-Repo/images/Raw%20Engineering.png",
         "navLinks":[
@@ -16,7 +15,6 @@
             "mainBody":""
         }
     },
-
     "CS":{
         "logo": "https://saima422.github.io/Image-JSON-Data-Repo/images/Contentstack.png",
         "navLinks":[
@@ -29,7 +27,6 @@
             "mainBody":""
         }
     },
-
     "SB":{
         "logo": "https://saima422.github.io/Image-JSON-Data-Repo/images/Surfboard%20India.png",
         "navLinks":[
@@ -42,7 +39,6 @@
             "mainBody":""
         }
     },
-
     "Home":{
         "logo": "https://saima422.github.io/Image-JSON-Data-Repo/images/logo.png",
         "navLinks":[
@@ -55,7 +51,6 @@
             "mainBody":""
         }
     },
-    
     "footerData":{
             "logoUrl":"",
             "copyrightInfo":"",
