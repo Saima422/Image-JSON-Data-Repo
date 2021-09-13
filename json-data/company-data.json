@@ -5,8 +5,11 @@
     },
 
     "RE":{
-        "navLinks":["Home","Contentstack","Surfboard"],
-        "mainContent":{
+        "navLinks":[
+            {"name":"Home", "link": "/"},
+            {"name": "Contentstack", "link": "/contentstack"},
+            {"name": "Surfboard", "link": "/surfboard"}],
+        "mainContent": {
             "mainHeading":"",
             "mainImage":"",
             "mainBody":""
@@ -14,7 +17,10 @@
     },
 
     "CS":{
-        "navLinks":["Home","Raw Eng","Surfboard"],
+        "navLinks":[
+            {"name":"Home", "link": "/"},
+            {"name": "Raw Eng", "link": "/raweng"},
+            {"name": "Surfboard", "link": "/surfboard"}],
         "mainContent":{
             "mainHeading":"",
             "mainImage":"",
@@ -23,7 +29,10 @@
     },
 
     "SB":{
-        "navLinks":["Home","Raw Eng","Contentstack"],
+        "navLinks":[
+            {"name":"Home", "link": "/"},
+            {"name": "Contentstack", "link": "/contentstack"},
+            {"name": "Raw Eng", "link": "/raweng"}],
         "mainContent":{
             "mainHeading":"",
             "mainImage":"",
@@ -32,7 +41,10 @@
     },
 
     "Home":{
-        "navLinks":["Raw Eng","Contentstack","Surfboard"],
+        "navLinks":[
+            {"name":"Raw Eng", "link": "/raweng"},
+            {"name": "Contentstack", "link": "/contentstack"},
+            {"name": "Surfboard", "link": "/surfboard"}],
         "mainContent":{
             "mainHeading":"",
             "mainImage":"",
