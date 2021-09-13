@@ -1,0 +1,59 @@
+{   
+    "navData":{
+        "logoUrl":"",
+        "navHeading":""
+    },
+    "RE":{
+        "logo": "https://saima422.github.io/Image-JSON-Data-Repo/images/Raw%20Engineering.png",
+        "navLinks":[
+            {"name":"Home", "link": "/"},
+            {"name": "Contentstack", "link": "/contentstack"},
+            {"name": "Surfboard", "link": "/surfboard"}],
+        "mainContent": {
+            "mainHeading":"",
+            "bannerImage":"https://saima422.github.io/Image-JSON-Data-Repo/images/Raw%20Engineering.png",
+            "mainBody":""
+        }
+    },
+    "CS":{
+        "logo": "https://saima422.github.io/Image-JSON-Data-Repo/images/Contentstack.png",
+        "navLinks":[
+            {"name":"Home", "link": "/"},
+            {"name": "Raw Eng", "link": "/raweng"},
+            {"name": "Surfboard", "link": "/surfboard"}],
+        "mainContent":{
+            "mainHeading":"",
+            "bannerImage":"https://saima422.github.io/Image-JSON-Data-Repo/images/Contentstack.png",
+            "mainBody":""
+        }
+    },
+    "SB":{
+        "logo": "https://saima422.github.io/Image-JSON-Data-Repo/images/Surfboard%20India.png",
+        "navLinks":[
+            {"name":"Home", "link": "/"},
+            {"name": "Contentstack", "link": "/contentstack"},
+            {"name": "Raw Eng", "link": "/raweng"}],
+        "mainContent":{
+            "mainHeading":"",
+            "bannerImage":"https://saima422.github.io/Image-JSON-Data-Repo/images/Surfboard%20India.png",
+            "mainBody":""
+        }
+    },
+    "Home":{
+        "logo": "https://saima422.github.io/Image-JSON-Data-Repo/images/logo.png",
+        "navLinks":[
+            {"name":"Raw Eng", "link": "/raweng"},
+            {"name": "Contentstack", "link": "/contentstack"},
+            {"name": "Surfboard", "link": "/surfboard"}],
+        "mainContent":{
+            "mainHeading":"",
+            "bannerImage":"https://saima422.github.io/Image-JSON-Data-Repo/images/logo.png",
+            "mainBody":""
+        }
+    },
+    "footerData":{
+            "logoUrl":"",
+            "copyrightInfo":"",
+            "links":[]
+    }
+}
