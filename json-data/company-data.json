@@ -10,9 +10,9 @@
             {"name": "Contentstack", "link": "/contentstack"},
             {"name": "Surfboard", "link": "/surfboard"}],
         "mainContent": {
-            "mainHeading":"",
-            "bannerImage":"https://saima422.github.io/Image-JSON-Data-Repo/images/Raw%20Engineering.png",
-            "mainBody":""
+            "companyName":"Raw Engineering",
+            "description": "Raw Engineering’s experienced Strategic Consultants, Solutions Architects, Designers, and Developers turn Business Vision into Digital Reality",
+            "imageUrl": "https://cdn.fs.teachablecdn.com/ENCGRSkTRImUV05sj2o4",
         }
     },
     "CS":{
@@ -22,9 +22,9 @@
             {"name": "Raw Eng", "link": "/raweng"},
             {"name": "Surfboard", "link": "/surfboard"}],
         "mainContent":{
-            "mainHeading":"",
-            "bannerImage":"https://saima422.github.io/Image-JSON-Data-Repo/images/Contentstack.png",
-            "mainBody":""
+            "companyName":"Contentstack",
+            "description": "Contentstack brings business and technology teams together to deliver personalized, omnichannel digital experiences.",
+            "imageUrl": "https://cdn.fs.teachablecdn.com/uzhm2qASSIS34BOGpg5A",
         }
     },
     "SB":{
@@ -34,9 +34,9 @@
             {"name": "Contentstack", "link": "/contentstack"},
             {"name": "Raw Eng", "link": "/raweng"}],
         "mainContent":{
-            "mainHeading":"",
-            "bannerImage":"https://saima422.github.io/Image-JSON-Data-Repo/images/Surfboard%20India.png",
-            "mainBody":""
+            "companyName":"Surfboard Ventures",
+            "description": "Best in class IT Training",
+            "imageUrl": "https://cdn.fs.teachablecdn.com/WKaE5E5SlSSbcDKZFCiW"
         }
     },
     "Home":{
@@ -46,9 +46,9 @@
             {"name": "Contentstack", "link": "/contentstack"},
             {"name": "Surfboard", "link": "/surfboard"}],
         "mainContent":{
-            "mainHeading":"",
-            "bannerImage":"https://saima422.github.io/Image-JSON-Data-Repo/images/logo.png",
-            "mainBody":""
+            "companyName":"Home Page",
+            "description": "Home Page for Companies",
+            "imageUrl": "https://wallpaperaccess.com/full/2303133.jpg"
         }
     },
     "footerData":{
